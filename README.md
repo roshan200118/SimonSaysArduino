@@ -1,5 +1,16 @@
 # SimonSaysArduino
-Designed and constructed a Simon Says Game using an Arduino Uno.
+Designed and constructed a Simon Says Game using C++ and Arduino. (2018).
+Contructed using:
+•	16 x 2 LCD display (x1)
+•	Arduino Uno microcontroller (x1)
+•	Breadboard (x1)
+•	Wires
+•	Potentiometer (x1)
+•	1K-ohm resistor (x4)
+•	330-ohm resistors (x2)
+•	Push buttons (x2)
+•	LEDs (x2)
+•	Piezo Buzzer (x1)
 
 ![SS1](https://user-images.githubusercontent.com/61467608/104821796-50992e00-580c-11eb-8b63-84eed4494ae9.gif)
 
