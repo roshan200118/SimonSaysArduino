@@ -8,3 +8,5 @@ Designed and constructed a Simon Says Game using an Arduino Uno.
 ![SS3](https://user-images.githubusercontent.com/61467608/104821803-5abb2c80-580c-11eb-8839-19edbaf5d1b5.gif)
 
 ![Simon Says Frizting](https://user-images.githubusercontent.com/61467608/104821907-2431e180-580d-11eb-9bae-94c73e02d3f8.png)
+
+![Simon Says Schematic](https://user-images.githubusercontent.com/61467608/104821916-36138480-580d-11eb-8241-068776e7d3f8.png)
