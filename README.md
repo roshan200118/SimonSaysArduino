@@ -1,4 +1,4 @@
-# SimonSaysArduino
+# Simon Says Arduino Project
 Designed and constructed a Simon Says Game using C++ and Arduino. (2018).
 
 Contructed using:
